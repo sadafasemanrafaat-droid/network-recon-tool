@@ -57,7 +57,7 @@ Open ports: [9000]
 Scan Time: 5.21 seconds
 ```
 
-### 5.Technologies Used
+## Technologies Used
 Python 3
 Socket Programming
 TCP
@@ -65,7 +65,7 @@ HTTP
 Linux / WSL
 Git
 GitHub
-### 6.Project Purpose
+## Project Purpose
 The purpose of this project is to practice basic network reconnaissance concepts and Python socket programming in a controlled local environment.
 The project demonstrates how a security tool can:
 1. Scan TCP ports
