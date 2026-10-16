@@ -47,15 +47,15 @@ Enter end port: 9000
 ```
 
 ### 4.Example Output:
--
+```text
 NETWORK RECON TOOL
--
+------------------
 Service: HTTP
--
+------------------
 Open ports: [9000]
--
+----------------------
 Scan Time: 5.21 seconds
-
+```
 
 ### 5.Technologies Used
 Python 3
