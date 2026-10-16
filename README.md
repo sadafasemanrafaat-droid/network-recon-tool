@@ -47,10 +47,13 @@ Enter end port: 9000
 ```
 
 ### 4.Example Output:
-
+-
 NETWORK RECON TOOL
+-
 Service: HTTP
+-
 Open ports: [9000]
+-
 Scan Time: 5.21 seconds
 
 
