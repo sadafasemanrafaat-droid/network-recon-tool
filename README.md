@@ -46,7 +46,7 @@ Enter start port: 8995
 Enter end port: 9000
 ```
 
-### 4.Example Output:
+### 4.Example Output
 ```text
 NETWORK RECON TOOL
 ------------------
